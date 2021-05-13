@@ -14,7 +14,8 @@
                         </div>
                     @endif
 
-                    You are logged in!
+                        <a href="{{ url('/chatify') }}">Acessar Chatify</a>
+
                 </div>
             </div>
         </div>
